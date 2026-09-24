@@ -1,0 +1,6 @@
+{
+  "name": "PharmaBangla - DGDA Pharmacy POS & ERP System",
+  "description": "Comprehensive System Requirement Specification (SRS), Architecture Roadmap, and Live Pharmacy Management & POS ERP tailored for the Bangladesh healthcare and retail pharmaceutical market with DGDA compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
